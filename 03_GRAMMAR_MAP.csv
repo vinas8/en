@@ -1,5 +1,2 @@
-Phrase_ID,Grammar,CEFR,Difficulty
-P001,Present Perfect,A1,2
-P002,Present Simple,A1,1
-P003,Modal Could,A1,2
-P004,Present Continuous (future),A2,3
+Phrase_ID,English_Target
+P001,Have you eaten yet?

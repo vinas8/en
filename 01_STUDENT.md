@@ -1,4 +1,1 @@
-# STUDENT
-
-Target learner: Thai beginner (A1).
-Goal: Daily conversation, travel, relationships.
+Student: Pk (Sasiwimon)
