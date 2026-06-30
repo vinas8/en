@@ -1,0 +1,15 @@
+{
+  "student": {
+    "id": "",
+    "current_day": 1
+  },
+  "summary": {
+    "overall_mastery": 0
+  },
+  "phrase_progress": {
+    "P001": {
+      "status": "new",
+      "mastery": 0
+    }
+  }
+}

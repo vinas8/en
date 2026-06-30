@@ -1,0 +1,5 @@
+Phrase_ID,English_Target,Thai_Prompt,Category,Week
+P001,Have you eaten yet?,ทานข้าวหรือยัง,Daily_Conversation,1
+P002,I miss you.,ฉันคิดถึงคุณ,Daily_Conversation,1
+P003,Could you help me?,คุณช่วยฉันได้ไหม,Daily_Conversation,1
+P004,When are you going back home?,คุณจะกลับบ้านเมื่อไหร่,Daily_Conversation,1
