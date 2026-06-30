@@ -1,5 +1,9 @@
-Phrase_ID,English_Target,Thai_Prompt,Category,Week
-P001,Have you eaten yet?,ทานข้าวหรือยัง,Daily_Conversation,1
-P002,I miss you.,ฉันคิดถึงคุณ,Daily_Conversation,1
-P003,Could you help me?,คุณช่วยฉันได้ไหม,Daily_Conversation,1
-P004,When are you going back home?,คุณจะกลับบ้านเมื่อไหร่,Daily_Conversation,1
+Phrase_ID,English_Target,Thai_Meaning,Category
+P001,What are you doing now?,คุณกำลังทำอะไรอยู่,Daily_Texting
+P002,How was your day?,วันนี้เป็นอย่างไรบ้าง,Relationships
+P003,Where is the check-in counter?,เคาน์เตอร์เช็คอินอยู่ที่ไหน,Travel
+P004,When are you going back home?,คุณจะกลับบ้านเมื่อไหร่,Relationships
+P005,Tell them all I know now,บอกพวกเขาทุกอย่างที่ฉันรู้ตอนนี้,Pop_Music_James_Arthur
+P006,I'm stuck in the dark but you're my flashlight,ฉันติดอยู่ในความมืดแต่คุณคือแสงสว่างของฉัน,Pop_Music_Jessie_J
+P007,I love spending time with you.,ฉันชอบใช้เวลากับคุณ,Love
+P008,Have you eaten yet?,ทานข้าวหรือยัง,Daily_Texting

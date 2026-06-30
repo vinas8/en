@@ -1,5 +1,8 @@
-Phrase_ID,Grammar,CEFR,Difficulty
-P001,Present Perfect,A1,2
-P002,Present Simple,A1,1
-P003,Modal Could,A1,2
-P004,Present Continuous (future),A2,3
+Phrase_ID,English_Target,Category,Textbook_Unit,Invisible_Grammar_Concept
+P001,What are you doing now?,Daily_Texting,Unit 7,Present Continuous
+P002,How was your day?,Relationships,Unit 12,Past Simple (Verb to be)
+P003,Where is the check-in counter?,Travel,Unit 2,Wh- Questions with Verb to be
+P004,When are you going back home?,Relationships,Unit 14,Future Plans (Present Continuous)
+P005,Tell them all I know now,Pop_Music,Unit 5,Basic Subject / Verb Structure
+P006,I'm stuck in the dark,Pop_Music,Unit 21,Basic Passive Voice Concepts
+P008,Have you eaten yet?,Daily_Texting,Unit 16,Present Perfect

@@ -1,15 +1,22 @@
 {
-  "student": {
-    "id": "",
-    "current_day": 1
+  "student_profile": {
+    "name": "Pk (Sasiwimon)",
+    "age": 19,
+    "native_language": "th",
+    "target_level": "B1"
   },
-  "summary": {
-    "overall_mastery": 0
+  "current_status": {
+    "study_day": 2,
+    "phase": 1,
+    "grammar_progression_locked": true,
+    "system_note": "Interleave vocabulary, listening, and speaking. Do not block-study grammar."
   },
-  "phrase_progress": {
-    "P001": {
-      "status": "new",
-      "mastery": 0
-    }
+  "day_1_diagnostic": {
+    "last_score": "10/30 (33%)",
+    "critical_errors": [
+      {"error": "its vs it's", "priority": "HIGH"},
+      {"error": "our vs us", "priority": "HIGH"},
+      {"error": "Literal translation: 'go to your country' instead of 'going back home'", "priority": "CRITICAL"}
+    ]
   }
 }
